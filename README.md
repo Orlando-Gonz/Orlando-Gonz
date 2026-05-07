@@ -1,4 +1,7 @@
-## Hi there 👋
+# OG
+
+Developer focused on clean architecture, thoughtful engineering, and continuous improvement.
+
 
 <!--
 **Orlando-Gonz/Orlando-Gonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
