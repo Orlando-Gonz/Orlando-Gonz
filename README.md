@@ -6,7 +6,7 @@ Developer focused on clean architecture, thoughtful engineering, and continuous 
 - Keep it simple
 - Build with intention
 - Learn continuously
-- 
+  
 ## Tools I use
 Python • FastAPI • SQL • Git
 
