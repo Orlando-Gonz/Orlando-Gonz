@@ -2,6 +2,15 @@
 
 Developer focused on clean architecture, thoughtful engineering, and continuous improvement.
 
+## Principles
+- Keep it simple
+- Build with intention
+- Learn continuously
+- 
+## Tools I use
+Python • FastAPI • SQL • Git
+
+
 
 <!--
 **Orlando-Gonz/Orlando-Gonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
