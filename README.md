@@ -10,6 +10,8 @@ Developer focused on clean architecture, thoughtful engineering, and continuous 
 ## Tools I use
 Python • FastAPI • SQL • Git
 
+## Now
+Learning, building, improving.
 
 
 <!--
